@@ -1,0 +1,4 @@
+Nombre: Alejandro Gimeno
+Edad: 20
+Carrera: Lic. Informatica
+Matrícula: 10056436
